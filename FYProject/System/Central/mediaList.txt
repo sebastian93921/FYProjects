@@ -1,0 +1,16 @@
+:MSLHeader
+//MSLHeader = Media Server List Header
+
+//::<Location> 
+//eg ::HK ::Loopback
+
+//::Loopback means the server is running within the same server with Central Server
+//<ip>#<port number>
+
+::HK
+x12homeserver.no-ip.org#17221
+x12homeserver.no-ip.org#17222
+
+::Loopback
+127.0.0.1#17221
+//127.0.0.1#17222

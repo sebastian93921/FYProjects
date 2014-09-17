@@ -1,0 +1,1 @@
+@copy .\MSWMusicKernel\dist\MSWMusicKernel.jar ".\common librarys\MSWMusicKernel.jar"
